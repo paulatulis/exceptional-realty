@@ -11,13 +11,17 @@
   ],
   "aliases": {},
   "rules": {
-    "": {
+    "new": {
       "id": "513vdSUBF9IasVdzaxP1P",
-      "given": [],
+      "given": [
+        "#Operation_Object"
+      ],
       "severity": "error",
       "then": {
-        "function": ""
-      }
+        "function": "truthy",
+        "field": "operationId"
+      },
+      "name": "new"
     }
   },
   "extendedDefault": false
