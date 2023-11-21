@@ -1,0 +1,24 @@
+{
+  "name": "exceptional-realty",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "": {
+      "id": "utnOBeP8XKR73Bh1pC69M",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      }
+    }
+  },
+  "extendedDefault": false
+}
