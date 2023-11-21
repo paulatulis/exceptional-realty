@@ -17,7 +17,7 @@
     }
   },
   "rules": {
-    "new": {
+    "newuio;": {
       "id": "4SOCLToArBlPcTDMOeKTV",
       "given": [
         "#Operation_Object"
@@ -27,7 +27,8 @@
         "function": "truthy",
         "field": "operationId"
       },
-      "name": "new"
+      "name": "newuio;",
+      "message": "ghnjmk,"
     }
   },
   "extendedDefault": false
